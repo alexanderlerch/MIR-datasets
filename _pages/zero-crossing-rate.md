@@ -1,0 +1,13 @@
+---
+ID: 148
+post_title: zero crossing rate
+author: Alex
+post_excerpt: ""
+layout: page
+permalink: >
+  https://www.audiocontentanalysis.org/code/audio-features/zero-crossing-rate/
+published: true
+post_date: 2012-06-19 18:18:00
+---
+<script src="https://gist-it.appspot.com/https://github.com/alexanderlerch/ACA-Code/blob/master/FeatureTimeZeroCrossingRate.m">
+</script>
