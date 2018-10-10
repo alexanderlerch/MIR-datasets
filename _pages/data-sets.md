@@ -1,13 +1,13 @@
 ---
-ID: 766
-post_title: datasets
+ID: 2096
+post_title: data-sets
 author: Alex
 post_excerpt: ""
 layout: page
 permalink: >
   https://www.audiocontentanalysis.org/data-sets/
 published: true
-post_date: 2014-05-30 16:05:33
+post_date: 2018-10-10 16:17:29
 ---
 This is yet another attempt of maintaining a list of datasets directly related to MIR. Other lists that I have found are <a title="Teaching MIR Wiki" href="http://teachingmir.wikispaces.com/Datasets" target="_blank" rel="noopener">this wiki</a>, the <a href="http://ismir.net/resources.html#datasets" target="_blank" rel="noopener">ISMIR page</a>, <a title="Holzmann: MIR datasets" href="http://grh.mur.at/sites/default/files/mir_datasets_0.html" target="_blank" rel="noopener">this web page</a>, and <a title="Raffel: lists of datasets" href="http://colinraffel.com/wiki/mir_datasets" target="_blank" rel="noopener">this web page</a>. If you are interested in speech processing, you can find a table of speech datasets on <a title="ISCA Special Interest Group on Robust Speech Processing - Datasets" href="https://wiki.inria.fr/rosp/Datasets#Speech_datasets" target="_blank" rel="noopener">this page</a>. If you are interested in multi-tracks, the <a href="http://multitrack.eecs.qmul.ac.uk/">Open Multitrack Testbed</a> should be a good starting point. UPF also has an excellent page with <a href="http://compmusic.upf.edu/datasets" target="_blank" rel="noopener">datasets for world-music</a>, including <em>Indian art music</em>, <em>Turkish Makam</em> music, and <em>Beijing Opera</em>. Two additional general resources are <a href="http://www.piano-midi.de">piano-midi.de</a> for MIDI files and <a href="http://www.freesound.org">freesound.org</a> for audio files.
 
