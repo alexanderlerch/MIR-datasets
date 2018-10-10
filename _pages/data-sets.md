@@ -130,7 +130,7 @@ dataset |  meta data |  contents |  with audio
 <a title="QMUL:King" href="http://isophonics.net/content/reference-annotations-carole-king" target="_blank" rel="noopener">QMUL:King</a> | structure &amp; key &amp; chords | 14 songs | no
 <a title="QMUL:MichaelJackson" href="http://isophonics.net/content/reference-annotations-michael-jackson" target="_blank" rel="noopener">QMUL:MichaelJackson</a> | structure | 38 songs | no
 <a title="QMUL:MixEvaluation" href="http://c4dm.eecs.qmul.ac.uk/multitrack/MixEvaluation/" target="_blank" rel="noopener">QMUL:MixEvaluation</a> | multitrack &amp; mixes | 18 songs/180 mixes | yes
-<!--<a title="QMUL:MultiTrack" href="http://c4dm.eecs.qmul.ac.uk/rdr/handle/123456789/36" target="_blank" rel="noopener">QMUL:MultiTrack</a> | structure &amp; multitrack | 104 songs | partly...--><a title="QMUL:Queen" href="http://isophonics.net/content/reference-annotations-queen" target="_blank" rel="noopener">QMUL:Queen</a> | structure/key &amp; chords | 51/31 songs | no
+<a title="QMUL:Queen" href="http://isophonics.net/content/reference-annotations-queen" target="_blank" rel="noopener">QMUL:Queen</a> | structure/key &amp; chords | 51/31 songs | no
 <a title="QMUL:RSS" href="http://c4dm.eecs.qmul.ac.uk/downloads/" target="_blank" rel="noopener">QMUL:RSS</a> | structure | 60 songs |  no
 <a title="QMUL:Zweieck" href="http://isophonics.net/content/reference-annotations-zweieck" target="_blank" rel="noopener">QMUL:Zweieck</a> | structure &amp; key &amp; chords &amp; beats | 18 songs | no
 <a title="QUASI" href="http://www.tsi.telecom-paristech.fr/aao/en/2012/03/12/quasi/" target="_blank" rel="noopener">QUASI</a> | multitrack | 11 songs | yes
@@ -158,7 +158,6 @@ dataset |  meta data |  contents |  with audio
 <a title="ThisIsMyJam" href="https://archive.org/details/thisismyjam-datadump" target="_blank" rel="noopener">ThisIsMyJam</a> | favorite songs &amp; artists | 131k users | no
 <a title="TONAS" href="http://mtg.upf.edu/download/datasets/tonas" target="_blank" rel="noopener">TONAS</a> | pitch | 72 single-voiced excerpts | yes
 <a title="TPD - Track Popularity" href="http://mir.ilsp.gr/track_popularity.html" target="_blank" rel="noopener">TPD</a> | popularity rating | 23385 songs | no
-<!--<a title="TRIOS" href="http://c4dm.eecs.qmul.ac.uk/rdr/handle/123456789/27" target="_blank" rel="noopener">TRIOS</a> | multitrack &amp; aligned MIDI | 5 excerpts | yes...-->
 <a title="Tunebot" href="http://music.cs.northwestern.edu/data/tunebot" target="_blank" rel="noopener">Tunebot</a> | title &amp; artist | 10000 queries/? songs |  yes/no
 <a title="UMA-Piano" href="http://extras.springer.com/2013/978-1-4614-7475-3" target="_blank" rel="noopener">UMA-Piano</a> | piano chords |  275040 recordings | yes
 <a title="UnmixDB" href="https://zenodo.org/record/1422385#.W7R5zxMzYWo" target="_blank" rel="noopener">UnmixDB</a> |  DJ mix parameters |  37 playlists |  yes
