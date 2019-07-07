@@ -1,7 +1,7 @@
 
 dataset |  meta data |  contents |  with audio
 --- | --- | --- | ---
-<a title="200DrumMachines" href="http://www.hexawe.net/mess/200.Drum.Machines" target="_blank" rel="noopener">200DrumMachines</a> |  | 7371 one-shots |  yes
+<a title="200DrumMachines" href="http://www.hexawe.net/mess/200.Drum.Machines" target="_blank" rel="noopener">200DrumMachines</a> | audio samples | 7371 one-shots |  yes
 <a title="ACM:MIRUM" href="http://www.marsyas.info/tempo" target="_blank" rel="noopener">ACM_MIRUM</a> | tempo | 1410 excerpts (60s) |  yes
 <a title="ADC2004" href="http://labrosa.ee.columbia.edu/projects/melody" target="_blank" rel="noopener">ADC2004</a> | predominant pitch | 20 excerpts |  yes
 <a title="Acoustic Event Dataset" href="https://data.vision.ee.ethz.ch/cvl/ae_dataset/" target="_blank" rel="noopener">AED</a> | 28 event classes | 5223 audio snippets |  yes
@@ -47,7 +47,7 @@ dataset |  meta data |  contents |  with audio
 <a title="FMA-medium" href="https://github.com/mdeff/fma" target="_blank" rel="noopener">FMA-medium</a> | 16 genres |  25000 excerpts (30s) |  yes
 <a title="FMA-large" href="https://github.com/mdeff/fma" target="_blank" rel="noopener">FMA-large</a> | 161 genres |  106574 excerpts (30s) |  yes
 <a title="FMA-full" href="https://github.com/mdeff/fma" target="_blank" rel="noopener">FMA-full</a> | 161 genres |  106574 songs |  yes
-<a title="Fugue Analyses" href="http://algomus.fr/datasets/index.html" target="_blank" rel="noopener">Fugue</a> | fugue analysis | 36 pieces | no
+<a title="Fugue Analyses" href="http://algomus.fr/datasets/index.html" target="_blank" rel="noopener">Fugue</a> | structure & cadences | 36 fugues (Bach & Shostakovich | no
 <a title="GiantStepsTempo" href="https://github.com/GiantSteps/giantsteps-tempo-dataset" target="_blank" rel="noopener">GiantStepsTempo</a> |  tempo (<a href="http://www.tagtraum.com/download/schreiber_new_giantsteps_tempo.zip">alternate</a>) |  664 files |  no
 <a title="GiantStepsKey" href="https://github.com/GiantSteps/giantsteps-key-dataset" target="_blank" rel="noopener">GiantStepsKey</a> |  key |  604 files |  no
 <a title="Gracenote Music Identification 2014" href="https://developer.gracenote.com/mid2014" target="_blank" rel="noopener">GNMID14</a> |  timestamp &amp; country |  110M music ID matches |  no
@@ -59,7 +59,7 @@ dataset |  meta data |  contents |  with audio
 <a title="Hainsworth" href="http://www.marsyas.info/tempo/" target="_blank" rel="noopener">Hainsworth</a> | tempo | 245 excerpts (60s) |  yes
 <a title="HHDS" href="http://goo.gl/5Hu51y" target="_blank" rel="noopener">HHDS</a> |  multitrack &amp; style &amp; tempo |  18 songs |  yes
 <a title="HJDB" href="http://ddmal.music.mcgill.ca/breakscience/dbeat/" target="_blank" rel="noopener">HJDB</a> | downbeat | 236 excerpts |  yes
-<a title="holzapfel:onset" href="http://www.rhythmos.org/Datasets.html" target="_blank" rel="noopener">holzapfel:onset</a> | onset times | 78 excerpts |  yes
+<a title="holzapfel:onset" href="https://kth.box.com/s/o151l3rqtglhmeszah06wmvpcmpat6w9" target="_blank" rel="noopener">holzapfel:onset</a> | onset times | 78 excerpts |  yes
 <a title="homburg" href="http://www-ai.cs.uni-dortmund.de/audio.html" target="_blank" rel="noopener">homburg</a> |  9 genres |  1889 excerpts (10s) |  yes
 <a title="IADS" href="http://csea.phhp.ufl.edu/media/iadsmessage.html" target="_blank" rel="noopener">IADS</a> |  valence &amp; arousal &amp; dominance |  111 sound snippets |  yes
 <a title="IDMT-SMT-Bass" href="http://www.idmt.fraunhofer.de/en/business_units/smt/bass.html" target="_blank" rel="noopener">IDMT-SMT-Bass</a> |  bass performance styles |  4300 excerpts |  yes
@@ -106,6 +106,8 @@ dataset |  meta data |  contents |  with audio
 <a title="MOODetector:Multi-Modal" href="https://github.com/johnglover/modal" target="_blank" rel="noopener">MOODetector:Multi-Modal</a> | lyrics &amp; MIDI &amp; mood | 903 excerpts (30s) | yes
 <a title="moodswings" href="http://music.ece.drexel.edu/research/emotion/moodswingsturk" target="_blank" rel="noopener">moodswings</a> |  arousal &amp; valence | 240 excerpts (30s) | no
 <a title="MLPMF - Mid Level Perceptual Music Features" href="https://osf.io/5aupt" target="_blank" rel="noopener">MLPMF </a> |  7 perceptual features | 5000 audio files | yes
+<a title="Mozart String Quartets" href="http://algomus.fr/data" target="_blank" rel="noopener">MozartStringQuartets </a> |  structure, cadences | 32 movements | no
+<a title="Multimodal Sheet Music Dataset" href="https://zenodo.org/record/2597505/" target="_blank" rel="noopener">MSMD </a> |  piano notes/chords/pieces, synthetic audio, aligned MIDI, aligned sheet music images, OMR | 497 pieces | no
 <a title="MSD - Million Song Dataset" href="http://labrosa.ee.columbia.edu/millionsong/" target="_blank" rel="noopener">MSD</a> | <a href="http://www.tagtraum.com/msd_genre_datasets.html">meta data</a> &amp; proprietary features | 1000000 songs | no
 <a title="MTC" href="http://www.liederenbank.nl/mtc/" target="_blank" rel="noopener">The Meertens Tune Collections</a> | phrases &amp; key &amp; meter | 18000 melodies | partially
 <a title="MTG-QBH - Query by Humming" href="http://mtg.upf.edu/download/datasets/mtg-qbh" target="_blank" rel="noopener">MTG-QBH</a> | title &amp; artist | 118 queries/481 songs |  yes/no
@@ -147,6 +149,7 @@ dataset |  meta data |  contents |  with audio
 <a title="Seyerlehner:Annotated" href="http://www.seyerlehner.info/index.php?p=1_3_Download" target="_blank" rel="noopener">Seyerlehner:Annotated</a> | 19 genres | 190 songs | yes
 <a title="Seyerlehner:Pop" href="http://www.seyerlehner.info/index.php?p=1_3_Download" target="_blank" rel="noopener">Seyerlehner:Pop</a> | tempo | 1105 songs | yes
 <a title="Seyerlehner:Unique" href="http://www.seyerlehner.info/index.php?p=1_3_Download" target="_blank" rel="noopener">Seyerlehner:Unique</a> | 14 genres | 3115 excerpts (30s) | yes
+<a title="SHS100K" href="https://github.com/NovaFrost/SHS100K" target="_blank" rel="noopener">SHS100K</a> | cover songs | ca. 10,000 songs with 100,000 tracks | no
 <a title="SISEC2013" href="http://sisec2011.wiki.irisa.fr/tiki-index165d.html?page=Professionally+produced+music+recordings" target="_blank" rel="noopener">SISEC</a> | multitrack &amp; mix | 5 excerpts | yes
 <a title="SMC:MIREX" href="http://smc.inescporto.pt/research/data-2/" target="_blank" rel="noopener">SMC:MIREX</a> | tempo &amp; beat positions | 217 excerpts | yes
 <a title="SMD" href="http://www.mpi-inf.mpg.de/resources/SMD/SMD_MIDI-Audio-Piano-Music.html" target="_blank" rel="noopener">SMD</a> | audio &amp; aligned MIDI | 50 recordings |  yes
@@ -154,6 +157,7 @@ dataset |  meta data |  contents |  with audio
 <a title="SPAM" href="https://github.com/urinieto/msaf-data/tree/master/SPAM/references" target="_blank" rel="noopener">SPAM</a> |  structure |  50 songs |  no
 <a title="SRD-O - Shazam Research Dataset: Offsets" href="https://purl.stanford.edu/fj396zz8014" target="_blank" rel="noopener">SRD-O</a> | in-song query times | 188M queries over 20 songs |  no
 <a title="Su-AMT" href="https://sites.google.com/site/lisupage/research/new-methodology-of-building-polyphonic-datasets-for-amt" target="_blank" rel="noopener">Su-AMT</a> | onset times &amp; pitch | 10 excerpts |  yes
+<a title="String Quartet Texture" href="http://algomus.fr/data" target="_blank" rel="noopener">TextureStringQuartets</a> | texture | 11 movements | no
 <a title="TFD - Traditional Flute Dataset" href="https://www.kaggle.com/jbraga/traditional-flute-dataset/home" target="_blank" rel="noopener">TFD</a> | audio &amp; aligned MIDI | 30 excerpts | yes
 <a title="ThisIsMyJam" href="https://archive.org/details/thisismyjam-datadump" target="_blank" rel="noopener">ThisIsMyJam</a> | favorite songs &amp; artists | 131k users | no
 <a title="TONAS" href="http://mtg.upf.edu/download/datasets/tonas" target="_blank" rel="noopener">TONAS</a> | pitch | 72 single-voiced excerpts | yes
